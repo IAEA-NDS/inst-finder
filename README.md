@@ -1,6 +1,6 @@
 # inst-finder
 INST-FINDER is an utility for EXFOR INSTITUTE coding. After instllation of Python3, install a module "pyperclip" by
-> pip install pyperclip
+`aaaaa`pip install pyperclip
 
 Place all files in one folder and run it by
 
